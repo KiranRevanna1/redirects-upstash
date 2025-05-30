@@ -1,6 +1,6 @@
 # Edge Redirects with Upstash
 
-This demo features a list of redirects, both hardcoded and coming from Redis ([Upstash](https://upstash.com/)), that get evaluated at the edge.
+This demo features a list of redirects, both hardcoded and coming from Redis, that get evaluated at the edge.
 
 The demo has a total of 10,000 redirects, 1,000 of which are hardcoded on a JSON file, and 9,000 added to Redis.
 
